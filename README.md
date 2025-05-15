@@ -1,5 +1,9 @@
 # SenticNet API Wrapper
-This repository consists of 2 different files, 
+This repository consists of 2 different files,
+
+1_Extract Comments from Reddit.ipynb
+
+2_Visualizing Data for SenticNet APIs.ipynb
 ## Prerequisites
 ### 1. Jupyter Notebook
 
@@ -7,8 +11,17 @@ Anaconda is preferred and the installation link is below.
     
 [Anaconda Navigator](https://www.anaconda.com/download/success)
 
-The list below contains Python packages required.
-1. 
+The list below contains Python packages required to install.
+1. praw
+2. requests
+3. pandas
+4. numpy
+5. seaborn
+6. matplotlib
+7. openpyxl
+8. IPython.display
+
+`pip install praw requests pandas numpy seaborn matplotlib openpyxl IPython`
 
 ### 2. Reddit
     
