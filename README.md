@@ -1,4 +1,4 @@
-# SenticNet API Wrapper
+# Sentic API Wrapper
 This repository consists of 2 different files,
 
 1_Extract Comments from Reddit.ipynb
