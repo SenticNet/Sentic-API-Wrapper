@@ -35,8 +35,8 @@ For more information on configuring the Reddit, visit the following link below.
 
 [PRAW Documentation](https://praw.readthedocs.io/en/stable/getting_started/authentication.html)
 
-### 3. SenticNet API Keys
+### 3. Sentic API Keys
 
-SenticNet API keys can be obtained from SenticNet's page below.
+Sentic API keys can be obtained from SenticNet's page below.
 
 [Sentic API Suite Request Form](https://docs.google.com/forms/d/e/1FAIpQLScY_pszqe8fKoqNjrG5oKwwTgkNpXuTZb7MU6JbbLopSKpSng/viewform)
